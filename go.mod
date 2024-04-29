@@ -1,6 +1,6 @@
 module github.com/glanceapp/glance
 
-go 1.22.0
+go 1.23
 
 require (
 	golang.org/x/text v0.14.0
